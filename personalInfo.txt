@@ -1,0 +1,47 @@
+# ===== Personal Information =====
+Name: Emre
+Age: 24
+Gender: Male
+Height: 178 cm
+Weight: 82 kg
+Body Fat Percentage: 20%
+
+# ===== Fitness Goal =====
+Goal: Lose fat and build lean muscle (body recomposition)
+Target Weight: 75 kg
+Timeline: 3 months
+
+# ===== Activity Level =====
+Activity Level: Moderately active (gym 4x/week, desk job)
+Workout Type: Weight training + light cardio
+Workout Time: Evening (6-7 PM)
+
+# ===== Dietary Preferences =====
+Diet Type: Omnivore (no restrictions)
+Allergies: None
+Foods I Dislike: Liver, Brussels sprouts
+Cuisine Preference: Turkish, Mediterranean
+
+# ===== Nutritional Targets =====
+Desired Protein Per Day: 160g
+Desired Calories Per Day: 2200 kcal (slight deficit)
+
+# ===== Budget =====
+Budget Per Meal: 50 TL (Turkish Lira)
+Number of Meals Per Day: 4
+Weekly Grocery Budget: 1400 TL
+
+# ===== Schedule =====
+Wake Up Time: 7:30 AM
+Breakfast Time: 8:00 AM
+Lunch Time: 12:30 PM
+Snack Time: 3:30 PM
+Dinner Time: 8:00 PM (post-workout)
+Sleep Time: 11:30 PM
+
+# ===== Other Notes =====
+- I have access to a kitchen at work for meal prep
+- I prefer simple recipes (max 30 min cooking time)
+- I drink 2-3 cups of Turkish coffee per day
+- I want to include whey protein if needed
+- Weekends I can cook more elaborate meals
